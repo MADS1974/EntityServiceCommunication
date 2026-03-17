@@ -1,4 +1,4 @@
-# 🔄 Entity Service Communication (AIDL)
+# 🔄 Entity Service Communication 
 
 ##### Um ecossistema de dois aplicativos Android (Service e Client) desenvolvido em Kotlin para demonstrar a Comunicação entre Processos (IPC) utilizando a interface AIDL (Android Interface Definition Language).
 ##### O objetivo principal é permitir que um aplicativo cliente solicite serviços de um aplicativo provedor, executando lógica de negócio (incremento de contador) de forma remota e segura.
